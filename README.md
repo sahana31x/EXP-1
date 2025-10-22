@@ -47,7 +47,8 @@ a.   KVL: <img width="825" height="418" alt="image" src="https://github.com/user
 
 
 
-b.  KCL: 
+b.  KCL: <img width="814" height="414" alt="image" src="https://github.com/user-attachments/assets/47fe7a78-46d6-4eb5-a307-a72836aff0c6" />
+
 
  
 
